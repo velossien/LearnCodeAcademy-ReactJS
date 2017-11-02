@@ -7,7 +7,7 @@ export default class Layout extends React.Component {
   constructor() {
     super();
     this.state = {
-      title: "Welcome",
+      title: "Welcome to Basic React! Type something to change me.",
     };
   }
 
